@@ -1,6 +1,5 @@
-#beimi 
+### # **深圳市贝米工作室** 
 
-最新版 0.8.0
 
 开源棋牌游戏，包含麻将、德州、斗地主。首个版本会采用当前最流行的房卡模式。
 
@@ -14,11 +13,6 @@
 
  **
 细安装过程请查阅：[安装说明](INSTALL.md)
- ** 
-
-
- ** 
-美术资源已经移动到 [贝密美术资源](https://gitee.com/beimi_admin/beimi-psd)
  ** 
 
 
@@ -45,3 +39,8 @@ UI效果图：
 ![输入图片说明](https://git.oschina.net/uploads/images/2017/0719/192954_eeba8b49_1387891.png "屏幕截图.png")
 ![输入图片说明](https://git.oschina.net/uploads/images/2017/0719/193004_066f1ad5_1387891.png "屏幕截图.png")
 ![输入图片说明](https://git.oschina.net/uploads/images/2017/0709/131509_9a969010_1387891.jpeg "在这里输入图片标题")
+
+
+###  **大家的支持是我最大的动力，谢谢了！
+** 
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0403/182826_0d980e99_4917846.png "L1`W_UH%_4}`(LT$N}V7I%L.png")
