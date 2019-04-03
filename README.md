@@ -14,7 +14,9 @@
  **
 细安装过程请查阅：[安装说明](INSTALL.md)
  ** 
-
+###  **欢迎加入棋牌游戏开发QQ群807630019，里面都是资深棋牌游戏开发者，一起打造更优秀的棋牌游戏！
+** 
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0403/183541_167be7f0_4917846.jpeg "B5FB65BCD190423A01FAF3C400D265E0.jpg")
 
 UI效果图：
 ![输入图片说明](https://git.oschina.net/uploads/images/2017/0719/192826_1d6f397f_1387891.png "屏幕截图.png")
