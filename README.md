@@ -43,6 +43,6 @@ UI效果图：
 ![输入图片说明](https://git.oschina.net/uploads/images/2017/0709/131509_9a969010_1387891.jpeg "在这里输入图片标题")
 
 
-###  **大家的支持是我最大的动力，谢谢了！
+###  **大家的资金支持是我开源下去的最大动力，谢谢了！
 ** 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0403/182826_0d980e99_4917846.png "L1`W_UH%_4}`(LT$N}V7I%L.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0103/174904_870c958c_4917846.jpeg "8.jpg")
